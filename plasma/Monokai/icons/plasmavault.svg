@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4153"
+   viewBox="0 0 32.000004 32"
+   version="1.1"
+   sodipodi:docname="plasmavault.svgz"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1320"
+     inkscape:window-height="718"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="38.340745"
+     inkscape:cy="21.210893"
+     inkscape:window-x="46"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4153">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style>
+  <g
+     id="22-22-plasmavault"
+     transform="translate(49,4.999999)">
+    <path
+       id="rect4148"
+       d="M 0,0 H 22 V 22 H 0 Z"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <path
+       id="path829"
+       d="m 3,4.000001 v 14 h 16 v -12 h -6.992 l -2,-2 -0.008,0.008 v -0.008 z m 1,1 h 5.586 l 1.004,1.004 -4.02,1.996 H 4 Z m 10,3 c 1.656855,0 3,1.3431464 3,3.000001 v 0.999999 h 1 v 5 h -8 v -5 h 1 v -0.999999 c 0,-1.6568546 1.343145,-3.000001 3,-3.000001 z m 0,1.000001 c -1.104569,0 -2,0.8954305 -2,2 v 0.999999 h 4 v -0.999999 c 0,-1.1045695 -0.895431,-2 -2,-2 z"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       style="color:#232629;fill:#af87ff;fill-opacity:1"
+       sodipodi:nodetypes="cccccccccccccccssccccccssssccss" />
+  </g>
+  <g
+     id="plasmavault">
+    <path
+       id="rect4230"
+       d="m0-1e-6h32.000004v32h-32.000004z"
+       fill="none" />
+    <path
+       id="path875"
+       d="m4 4v24h24v-21h-11l-3-3zm1 1h8.585938l2.207031 2.2070312-5.792969 5.7929688h-5zm16 8a4 4 0 0 1 4 4v3h2v7h-12v-7h2v-3a4 4 0 0 1 4-4zm0 1a3.0003099 3 0 0 0-3 3v3h6v-3a3.0003099 3 0 0 0-3-3z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+</svg>
